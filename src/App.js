@@ -1,6 +1,5 @@
 import logo from './logo.svg';
 import './App.css';
-import Hello from './component/task1/task1';
 import Congrats from './component/task2/task2';
 import SuperLeague from './component/task3/task3';
 import 'bootstrap/dist/css/bootstrap.min.css';
@@ -17,16 +16,11 @@ import Feedback from './component/task10/thankscard'
 import FeedNext from './component/task10/message'
 import {Mydata} from './component/json/index'
 import {Project} from './component/fetchdb/fetchdb'
-
 import { PortHome } from './component/portfolio/home';
 import { PortNav } from './component/portfolio/portnav';
 import { PortAbout } from './component/portfolio/about';
 import { Skills } from './component/portfolio/skills';
 import {Certificate} from './component/portfolio/certification';
-// import { Footer } from './Portfolio/footer';
-// import { PortTotal } from './Portfolio/total';
-import{UserList}  from './component/userList'
-import {Register} from './component/register'
 import { Education } from './component/portfolio/education';
 function App() {
   return (
