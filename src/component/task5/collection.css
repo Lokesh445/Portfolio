@@ -1,0 +1,21 @@
+ .box1 {
+     height: 75px;
+     width: 500px;
+     padding: 0 auto;
+     padding-top: 20px;
+     padding-left: 20px;
+ }
+
+ .message {
+
+     position: absolute;
+
+     top: 30%;
+
+     left: 30%;
+ }
+
+ .icon1 {
+     font-size: 30px;
+
+ }

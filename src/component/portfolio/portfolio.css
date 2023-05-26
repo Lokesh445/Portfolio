@@ -1,0 +1,391 @@
+.porthomebg{
+  
+    background-image: url("./bg.png");
+    background-size: cover;
+    height:100%;
+    width:100%;
+    padding-bottom: 16%;
+    
+}
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px) and (-webkit-min-device-pixel-ratio: 2){
+    img.eimage{
+        margin-left:10px !important;
+        margin-top: 0px !important;
+    }
+   
+    }
+
+    .eimage{
+        margin-top: 70px;
+
+    }
+
+
+.portnav {
+    z-index: 1000;
+    position: fixed;
+    background: rgba(64, 36, 116, 0.178);
+    backdrop-filter: blur(12px);
+    width:100%;
+    font-family: 'Poppins', sans-serif;
+   
+}
+
+.propic{
+  margin-top: 120px;
+    margin-left: 11%;
+    border-color: aqua;
+    border-style:dotted;
+
+}
+
+.title{
+    margin-top: 3%;
+    padding-bottom: 220px;
+    font-family: 'Rowdies', cursive;
+
+}
+.portnavh{
+    cursor: default;
+}
+.ar-butn{
+    font-weight: 200;
+}
+.ar-butn:hover{
+    text-decoration: none;
+}
+.butn:hover{
+    box-shadow: 1px 1px 1px 2px aqua;
+   
+}
+.butn{
+    margin-left: 170px;
+    width: 150px;
+    height: 50px;
+    border: none;
+    border-radius: 15px;
+    background-color: rgb(114, 243, 243);
+}
+
+.iam{
+    font-size: 25px;
+    color:white;
+    font-family: 'Josefin Sans', sans-serif;
+    margin-left: 50px;
+    
+}
+
+.name1{
+    color:rgb(141, 238, 255);
+    width:50px;
+    margin-left: 50px;
+    font-size: 45px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.homecon{
+    font-size: 20px;
+    font-family: 'poppins',cursive;
+    font-weight: bolder;
+    margin-top: -5px;
+    margin-left: 50px;
+}
+
+.name2{
+    margin-top: 150px;
+
+}
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px) and (-webkit-min-device-pixel-ratio: 2){
+    p.homecon{
+        text-align: center !important; 
+    }
+   
+    }
+
+/* ABOUT CSS */
+
+.portabout{
+    background-color: rgba(102, 77, 150, 0.379);
+    padding-top: 5%;
+}
+
+.dskill{
+    background-color: rgba(72, 49, 120, 0.687);
+    height: 100%;
+    border-radius: 30px;
+   
+    color:white;
+}
+
+.gtitle{
+    color:rgb(41, 13, 66);
+}
+
+.etitle{
+    color:rgb(36, 2, 66);
+}
+
+.dskill:hover{
+    box-shadow: 6px 6px 20px #962afac5;
+    background-color: rgba(127, 58, 255, 0.178);
+    color:black;
+}
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px) and (-webkit-min-device-pixel-ratio: 2){
+    div.about3{
+        margin-left: -15px !important;
+        
+    }
+    }
+
+
+/* SKILL CSS */
+
+.skills{
+    background-color: rgb(24, 26, 43);
+}
+
+.quote{
+    font-size: 60px;
+    font-family: 'Josefin Sans', sans-serif;
+    color:white;
+    font-weight:bolder;
+}
+
+.abtquote{
+   
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.steve{
+    color:gainsboro;
+    font-size: 32px;
+    
+}
+
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px) and (-webkit-min-device-pixel-ratio: 2){
+p.quote{
+    font-size: 30px !important;
+}
+}
+
+.quote2{
+    color:rgb(159, 250, 255);
+}
+
+.html1{
+    height:20px;
+}
+
+.html2{
+    width:90%;
+}
+
+.css{
+    width:85%;
+}
+
+.js{
+    width:80%;
+}
+
+.java{
+    width:85%;
+}
+
+.react{
+    width: 82%;
+}
+
+.mysql{
+    width:92%;
+}
+
+.nodejs{
+    width:78%;
+}
+
+.photoshop{
+    width:82%;
+}
+
+.quotes2{
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+/* education */
+
+.education{
+    background-color: rgb(24, 26, 43);
+    padding-top: 5%;
+}
+
+
+.deducation{
+    background-color: rgba(101, 74, 157, 0.687);
+    height: 100%;
+    border-radius: 30px;
+   
+    color:white;
+}
+
+
+.deducation:hover{
+    box-shadow: 1px 6px 20px #ff56e0ed;
+
+}
+
+
+.certification-bg{
+    
+        background-color: rgba(102, 77, 150, 0.379);
+        padding-top: 6%;
+        /* padding-bottom: 6%; */
+    
+}
+.certificate-card{
+    
+    background-color: transparent;
+    border: none;
+}
+
+
+.contactbg{
+    background-color: rgba(101, 74, 157, 0.687);
+}
+
+.github{
+    font-size: 200px;
+}
+
+.certi1{
+    width: 250px;
+    height: 200px;
+}
+
+.carousels{
+    width:40%;
+}
+
+.quotescert{
+    color:rgb(24, 26, 43);
+    font-size: 40px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight:bolder;
+}
+
+.quote2certi{
+    color:rgb(112, 1, 171);
+}
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px) and (-webkit-min-device-pixel-ratio: 2){
+    p.quotescert{
+        font-size: 28px !important;
+    }
+    }
+
+
+    /* FOOTER */
+    #footer {
+        background: #f7f8f9;
+        color: #45505b;
+        font-size: 14px;
+        text-align: center;
+        padding: 30px 0;
+      }
+      
+      #footer h3 {
+        font-size: 36px;
+        font-weight: 700;
+        position: relative;
+        font-family: "Poppins", sans-serif;
+        padding: 0;
+        margin: 0 0 15px 0;
+      }
+      
+      #footer p {
+        font-size: 15;
+        font-style: italic;
+        padding: 0;
+        margin: 0 0 40px 0;
+      }
+      
+      #footer .social-links {
+        margin: 0 0 40px 0;
+      }
+      
+      #footer .social-links a {
+        font-size: 18px;}
+        #footer {
+            background: transparent;
+            color: #45505b;
+            font-size: 14px;
+            text-align: center;
+            padding: 30px 0;
+          }
+          
+          #footer h3 {
+            font-size: 36px;
+            font-weight: 700;
+            position: relative;
+            font-family: "Poppins", sans-serif;
+            padding: 0;
+            margin: 0 0 15px 0;
+          }
+          
+          #footer p {
+            font-size: 15;
+            font-style: italic;
+            padding: 0;
+            margin: 0 0 40px 0;
+          }
+          
+          #footer .social-links {
+            margin: 0 0 40px 0;
+          }
+          
+          #footer .social-links a {
+            font-size: 18px;
+            display: inline-block;
+            background: #0563bb;
+            color: #fff;
+            line-height: 1;
+            padding: 8px 0;
+            margin-right: 4px;
+            border-radius: 50%;
+            text-align: center;
+            width: 36px;
+            height: 36px;
+            transition: 0.3s;
+          }
+          
+          #footer .social-links a:hover {
+            background: #0678e3;
+            color: #fff;
+            text-decoration: none;
+          }
+          
+          #footer .copyright {
+            margin: 0 0 5px 0;
+          }
+          
+          #footer .credits {
+            font-size: 13px;
+          }
+          .profile{
+            height: 100vh;
+            
+          }
+
+
+          .app{
+            height:85%;
+            width:100%;
+          }
+
+
+          .edufont{
+            color: rgb(199, 173, 255);
+          }

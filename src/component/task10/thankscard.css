@@ -1,0 +1,13 @@
+.feedbodydiv{
+    background-image: linear-gradient(to left,pink,purple);
+}
+.feedfont{
+    font-size: 80px;
+}
+.feedlabel{
+    font-size: 30px;
+}
+.feedimage{
+    height: 100px;
+    width: 100px;
+}
